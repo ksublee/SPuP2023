@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+ppt/~*
+hw/*
+my_test.txt
+my_test2.txt
+__pycache__/
+scores.csv
+*\~
